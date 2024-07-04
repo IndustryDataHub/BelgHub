@@ -38,4 +38,4 @@ This work is supported via the energy transition funds project ‘Trilate’ org
 [2] IED/E-PRTR database\
 [3] AidRES\
 [4] Flemish governmental database on Integrated Pollution Prevention and Control (IPPC)\
-[5] Hotmaps\
+[5] Hotmaps
