@@ -5,14 +5,14 @@ This GitHub contains an excel-based industrial database for Belgium, providing d
 The database applies TRILATE ids to uniquely identify the different industrial sites and products.
 
 Four sheets are provided:
-1) **facilities**
+1) **facilities**\
    Contains detailed information on the different industrial sites. Uniquelly identified by the TRILATE facility id 'TRILATE000'
-3) **products**
+3) **products**\
    Expands on the industrial sites by adding the different products that ar eproduced on site.
    A single site can be linked to multiple products, which are now identified by a letter added to the facility id: 'TRILATE000A'
-5) **metadata**
+5) **metadata**\
    Contains the references linked to the unique TRILATE product ids.
-7) **sources_unique**
+7) **sources_unique**\
    Contians a unique list of the sources used in this database.
    For datapoints provided by the AidRES or hotmaps database, we refer to these databses as a source itself.
    
@@ -34,8 +34,8 @@ Lastly, desktop research was performed to fill in remaining crucial data gaps.
 This work is supported via the energy transition funds project ‘Trilate’ organized by the FPS economy, S.M.E.s, Self-employed and Energy.
 
 ### Citation
-[1] ETS database
-[2] IED/E-PRTR database
-[3] AidRES
-[4] Flemish governmental database on Integrated Pollution Prevention and Control (IPPC)
-[5] Hotmaps
+[1] ETS database\
+[2] IED/E-PRTR database\
+[3] AidRES\
+[4] Flemish governmental database on Integrated Pollution Prevention and Control (IPPC)\
+[5] Hotmaps\
