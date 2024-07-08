@@ -1,7 +1,7 @@
 # BelgHub
 
 ### Contents
-This GitHub contains an excel-based industrial database for Belgium, providing data on industrial sites, their coordinates, address and activities. For each of these industrial sites, the corresponding data reported in the Emissions Trading System (ETS in short) is mentioned for the year 2021 **(add others?) **as well as the ETS identifier. Also production capacities are listed in the database. Details on the data collection methodology for these columns are shared below.
+This GitHub contains an excel-based industrial database for Belgium, providing data on industrial sites, their coordinates, address and activities. For each of these industrial sites, the corresponding data reported in the Emissions Trading System (ETS in short) is mentioned for the year 2022 **(add others?) **as well as the ETS identifier. Also production capacities are listed in the database. Details on the data collection methodology for these columns are shared below.
 The database applies TRILATE ids to uniquely identify the different industrial sites and products.
 
 Four sheets are provided:
