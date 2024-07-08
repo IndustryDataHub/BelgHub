@@ -28,7 +28,9 @@ As a third data source, the Hotmaps database [5] is used to complete data gaps, 
 Lastly, further desktop research was performed to fill in remaining crucial data gaps.
 
 ### Applications of the database
-paper Negar
+Negar Namazifard, Pieter Vingerhoets, Erik Delarue,
+Long-term cost optimization of a national low-carbon hydrogen infrastructure for industrial decarbonization,
+International Journal of Hydrogen Energy, https://doi.org/10.1016/j.ijhydene.2024.02.324.
 
 paper regionalisation EEM24 
 
