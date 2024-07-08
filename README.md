@@ -14,14 +14,14 @@ Four sheets are provided:
    Contains the references linked to the unique TRILATE product ids.
 7) **sources_unique**\
    Contains a unique list of the sources used in this database.
-   For datapoints retrieved from the AidRES or hotmaps database, we refer to these databses as a source itself.
+   For datapoints retrieved from the AIDRES or hotmaps database, we refer to these databses as a source itself.
    
 ### Background and methodology
-The database merges data from existing databases, starting from a list of facilities obtained from the ETS database [1], which was cross-linked with the IED/E-PRTR database [2] to collect geospatial information on facility-level. The industrial sector scope is limited to energy intensive industries; cement and lime, ceramics, chemicals, fertilisers, food and drinks, glass, non-ferrous metals, paper and pulp, refineries, steel. Next, a desktop study was performed to identify the products produced at each of these facilities and the total production capacities. The authors of this database relied on available, public information and projects with similar scopes like AidRes [3] and Hotmpas [5]. 
+The database merges data from existing databases, starting from a list of facilities obtained from the ETS database [1], which was cross-linked with the IED/E-PRTR database [2] to collect geospatial information on facility-level. The industrial sector scope is limited to energy intensive industries; cement and lime, ceramics, chemicals, fertilisers, food and drinks, glass, non-ferrous metals, paper and pulp, refineries, steel. Next, a desktop study was performed to identify the products produced at each of these facilities and the total production capacities. The authors of this database relied on available, public information and projects with similar scopes like AIDRES [3] and Hotmpas [5]. 
 All possible data from the different sources are combined, providing multiple values for the same datapoint when available. 
 The industrial database selects the data based on a ranking of the data sources. 
 If a datapoint is not available for a source with priority, the next source in the ranking is selected and so on. 
-The main source for the industrial database is the AidRES database [3], launched in the summer of 2023. 
+The main source for the industrial database is the AIDRES database [3], launched in the summer of 2023. 
 This database focusses on six key sectors or products: steel, chemicals, cement, glass, fertilizers and refineries.
 For the production units that are not covered in this data source, a Flemish governmental database on Integrated Pollution Prevention and Control (IPPC) [4] is used to conduct a manual search. 
 As a third data source, the Hotmaps database [5] is used to complete data gaps, mainly for the products in the pulp & paper and non-ferrous sectors. 
@@ -46,6 +46,6 @@ This work is supported via the energy transition funds project ‘Trilate’ org
 ### Citation
 [1] ETS database\
 [2] IED/E-PRTR database\
-[3] AidRES\
+[3] AIDRES\
 [4] Flemish governmental database on Integrated Pollution Prevention and Control (IPPC)\
 [5] Hotmaps
