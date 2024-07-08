@@ -27,6 +27,14 @@ For the production units that are not covered in this data source, a Flemish gov
 As a third data source, the Hotmaps database [5] is used to complete data gaps, mainly for the products in the pulp & paper and non-ferrous sectors. 
 Lastly, further desktop research was performed to fill in remaining crucial data gaps.
 
+### Applications of the database
+paper Negar
+
+paper regionalisation EEM24 
+
+
+Dhondt, N., Mendez Alva, F., & Van Eetvelde, G. (2024). Introducing industrial clusters in multi-node energy system modelling by the application of the industry–infrastructure quadrant. SUSTAINABILITY, 16(6). https://doi.org/10.3390/su16062585
+
 ### Version history
 4th of June 2024 - Version 0
 
