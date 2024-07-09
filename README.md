@@ -27,15 +27,18 @@ For the production units that are not covered in this data source, a Flemish gov
 As a third data source, the [Hotmaps database](url) is used to complete data gaps, mainly for the products in the pulp & paper and non-ferrous sectors. 
 Lastly, further desktop research was performed to fill in remaining crucial data gaps.
 
-### Applications of the database
-Negar Namazifard, Pieter Vingerhoets, Erik Delarue,
-Long-term cost optimization of a national low-carbon hydrogen infrastructure for industrial decarbonization,
-International Journal of Hydrogen Energy, https://doi.org/10.1016/j.ijhydene.2024.02.324.
-
+### Regionalization Tool
 Enya Lenaerts, Negar Namazifard, Nienke Dhondt, Juan Correa Laguna, Pieter Valkering,
 The regionalization tool: mapping future Belgian energy needs by coupling a long-term investment planning model with a national industry database.
 20th International Conference on European Energy Markets 2024, IEEEXplore. (soon to be published)
 
+
+### Belgium Hydrogen Network Analysis
+Negar Namazifard, Pieter Vingerhoets, Erik Delarue,
+Long-term cost optimization of a national low-carbon hydrogen infrastructure for industrial decarbonization,
+International Journal of Hydrogen Energy, https://doi.org/10.1016/j.ijhydene.2024.02.324.
+
+### Clustered Based Node Selection for Energy System Modelling
 Dhondt, N., Mendez Alva, F., & Van Eetvelde, G. (2024). Introducing industrial clusters in multi-node energy system modelling by the application of the industry–infrastructure quadrant. SUSTAINABILITY, 16(6). https://doi.org/10.3390/su16062585
 
 ### Version history
