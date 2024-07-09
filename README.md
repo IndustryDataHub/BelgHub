@@ -14,7 +14,7 @@ Four sheets are provided:
    Contains the references linked to the unique TRILATE product ids.
 7) **sources_unique**\
    Contains a unique list of the sources used in this database.
-   For datapoints retrieved from the AIDRES or hotmaps database, we refer to these databses as a source itself.
+   For datapoints retrieved from the [AIDRES](url) or [hotmaps](url) database, we refer to these databses as a source itself.
    
 ### Background and methodology
 The database merges data from existing databases, starting from a list of facilities obtained from the [ETS database](url), which was cross-linked with the [IED/E-PRTR database](url) to collect geospatial information on facility-level. The industrial sector scope is limited to energy intensive industries; cement and lime, ceramics, chemicals, fertilisers, food and drinks, glass, non-ferrous metals, paper and pulp, refineries, steel. Next, a desktop study was performed to identify the products produced at each of these facilities and the total production capacities. The authors of this database relied on available, public information and projects with similar scopes like [AIDRES](url) and [Hotmpas](url). 
@@ -33,7 +33,7 @@ The regionalization tool: mapping future Belgian energy needs by coupling a long
 20th International Conference on European Energy Markets 2024, IEEEXplore. (soon to be published)
 
 
-### Belgium Hydrogen Network Analysis
+### Belgian Hydrogen Network Analysis
 Negar Namazifard, Pieter Vingerhoets, Erik Delarue,
 Long-term cost optimization of a national low-carbon hydrogen infrastructure for industrial decarbonization,
 International Journal of Hydrogen Energy, https://doi.org/10.1016/j.ijhydene.2024.02.324.
