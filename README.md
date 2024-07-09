@@ -21,7 +21,7 @@ The database merges data from existing databases, starting from a list of facili
 All possible data from the different sources are combined, providing multiple values for the same datapoint when available. 
 The industrial database selects the data based on a ranking of the data sources. 
 If a datapoint is not available for a source with priority, the next source in the ranking is selected and so on. 
-The main source for the industrial database is the AIDRES database [3], launched in the summer of 2023. 
+The main source for the industrial database is the ([AIDRES](url)) database [3], launched in the summer of 2023. 
 This database focusses on six key sectors or products: steel, chemicals, cement, glass, fertilizers and refineries.
 For the production units that are not covered in this data source, a Flemish governmental database on Integrated Pollution Prevention and Control (IPPC) [4] is used to conduct a manual search. 
 As a third data source, the Hotmaps database [5] is used to complete data gaps, mainly for the products in the pulp & paper and non-ferrous sectors. 
@@ -32,7 +32,9 @@ Negar Namazifard, Pieter Vingerhoets, Erik Delarue,
 Long-term cost optimization of a national low-carbon hydrogen infrastructure for industrial decarbonization,
 International Journal of Hydrogen Energy, https://doi.org/10.1016/j.ijhydene.2024.02.324.
 
-paper regionalisation EEM24 
+Enya Lenaerts, Negar Namazifard, Nienke Dhondt, Juan Correa Laguna, Pieter Valkering,
+The regionalization tool: mapping future Belgian energy needs by coupling a long-term investment planning model with a national industry database.
+20th International Conference on European Energy Markets, IEEEXplore
 
 
 Dhondt, N., Mendez Alva, F., & Van Eetvelde, G. (2024). Introducing industrial clusters in multi-node energy system modelling by the application of the industry–infrastructure quadrant. SUSTAINABILITY, 16(6). https://doi.org/10.3390/su16062585
