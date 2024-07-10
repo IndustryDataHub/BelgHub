@@ -28,6 +28,12 @@ As a third data source, the [Hotmaps database](url) is used to complete data gap
 Lastly, further desktop research was performed to fill in remaining crucial data gaps.
 
 ### Regionalization Tool
+The Belgian industrial database was developed as an input for the Regionalization Tool.
+It is an excel based tool that allows the output of an aggregated long-term capacity planning model to be regionalized across user-defined clusters.
+The industrial database adds geographical detail on production capacities for different production processes across Belgium.
+This allows for a spatial component to be added to the scenario data in a post-processing procedure at low computational cost.
+
+More details on the working principles and applications of the Regionalization Tool are provided in the following paper:
 Enya Lenaerts, Negar Namazifard, Nienke Dhondt, Juan Correa Laguna, Pieter Valkering,
 The regionalization tool: mapping future Belgian energy needs by coupling a long-term investment planning model with a national industry database.
 20th International Conference on European Energy Markets 2024, IEEEXplore. (soon to be published)
